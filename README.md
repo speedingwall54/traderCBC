@@ -23,12 +23,6 @@ It uses publicly available stock data to extract behavioral signals (like volume
 
 If you're studying how traders behave during market shocks, this tool gives you a clean way to observe patterns, build models, and test hypotheses about behavioral cycles — using just Python and public data.
 
-## 🧠 Built For
-
-- Students doing AP Statistics, Physics, or Economics research
-- Researchers studying market microstructure
-- Anyone curious about behavioral finance and technical modeling
-
 ## ⚙️ How To Use
 
 1. Clone or download the repo.
