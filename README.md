@@ -1,8 +1,8 @@
 # traderCBC
 
-# Retail Trader Behavioral Modeling Template
+# Retail Trader Crowd Behavioral Modeling Template
 
-This project provides a Python-based framework for modeling and visualizing short-term retail trader behavior around market events like earnings announcements.
+This project provides a Python-based framework for modeling and visualizing short-term retail crowd trader behavior around market events like earnings announcements.
 
 It uses publicly available stock data to extract behavioral signals (like volume spikes and price reactions), combines them into a unified behavioral curve, and then models how this behavior evolves over time using machine learning and curve-fitting techniques.
 
@@ -21,7 +21,7 @@ It uses publicly available stock data to extract behavioral signals (like volume
 
 ## 📌 Why Use This?
 
-If you're studying how traders behave during market shocks, this tool gives you a clean way to observe patterns, build models, and test hypotheses about behavioral cycles — using just Python and public data.
+If you're studying how trader crowds behave during market shocks, this tool gives you a clean way to observe patterns, build models, and test hypotheses about behavioral cycles — using just Python and public data.
 
 ## ⚙️ How To Use
 
